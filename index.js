@@ -1,5 +1,4 @@
 const WebSocket = require('ws');
-
 // Pulls your token from Railway's environment variables
 const token = process.env.token;
 
