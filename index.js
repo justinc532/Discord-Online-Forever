@@ -24,12 +24,12 @@ function connect() {
           device: ''
         },
         presence: {
-          status: 'online',
+          status: 'idle',
           afk: false,
           activities: [{
             name: "Custom Status",
             type: 4, 
-            state: "dont buy from noblecheats.net" 
+            state: "noblecheats.net" 
           }]
         }
       }
